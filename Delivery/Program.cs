@@ -32,7 +32,7 @@ namespace ISW123_2023_3786
 
             Cocina cocina = new Cocina();
 
-            //  Suscriptor
+            //Suscripción al evento
             cocina.PizzaLista += mensaje =>
             {
                 Console.WriteLine(mensaje);
