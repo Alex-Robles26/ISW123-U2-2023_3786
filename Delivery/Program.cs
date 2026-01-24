@@ -6,7 +6,7 @@ namespace ISW123_2023_3786
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Nombre: Manaury Robles");
+            Console.WriteLine("Nombre: Manaury Roble");
             Console.WriteLine("Matrícula: 2023-3786");
             Console.ReadKey();
         }
